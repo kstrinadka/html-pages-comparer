@@ -2,12 +2,10 @@ package kstrinadka.com;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
 
+        PagesComparer pagesComparer = new PagesComparer(UrlAndHtmlParser.getUrlsAndHtmlPagesTodayMap(),
+                UrlAndHtmlParser.getUrlsAndHtmlPagesYesterdayMap());
 
-        UrlAndHtmlParser urlAndHtmlParser = new UrlAndHtmlParser();
-
-        urlAndHtmlParser.getListOfHtmlPageNames(" ");
-
+        System.out.println(pagesComparer.createMessage());
     }
 }
