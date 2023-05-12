@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc6e312-4d49-4ea7-b0b1-1d814814fb36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/html_pages/yesterday/names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kstrinadka/com/NamesAndPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kstrinadka/com/PagesComparer.java" afterDir="false" />
+    <list default="true" id="ecc6e312-4d49-4ea7-b0b1-1d814814fb36" name="Changes" comment="- Добавлено считывание URL и html страниц из файлов&#10;- добавление их в хешмапу&#10;- сравнение двух хешмамп в классе PagesComparer">
       <change afterPath="$PROJECT_DIR$/src/test/java/MyOwnTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/today/pagesurls/heading.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/today/pagesurls/heading.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/yesterday/colors.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/yesterday/pagesurls/colors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/yesterday/colors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/yesterday/pagesurls/colors.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/yesterday/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/yesterday/pagesurls/forms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/yesterday/forms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/yesterday/pagesurls/forms.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/yesterday/heading.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/yesterday/pagesurls/heading.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/yesterday/heading.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/yesterday/pagesurls/heading.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/yesterday/radio_buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/yesterday/pagesurls/radio_buttons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/yesterday/radio_buttons.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/yesterday/pagesurls/radio_buttons.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/yesterday/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/yesterday/pagesurls/table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_pages/yesterday/table.txt" beforeDir="false" afterPath="$PROJECT_DIR$/html_pages/yesterday/pagesurls/table.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kstrinadka/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kstrinadka/com/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kstrinadka/com/UrlAndHtmlParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kstrinadka/com/UrlAndHtmlParser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,8 +93,16 @@
       <option name="presentableId" value="Default" />
       <updated>1683827621092</updated>
       <workItem from="1683827622870" duration="3116000" />
-      <workItem from="1683880749537" duration="7003000" />
+      <workItem from="1683880749537" duration="7496000" />
     </task>
+    <task id="LOCAL-00001" summary="- Добавлено считывание URL и html страниц из файлов&#10;- добавление их в хешмапу&#10;- сравнение двух хешмамп в классе PagesComparer">
+      <created>1683888236985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683888236985</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Добавлено считывание URL и html страниц из файлов&#10;- добавление их в хешмапу&#10;- сравнение двух хешмамп в классе PagesComparer" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Добавлено считывание URL и html страниц из файлов&#10;- добавление их в хешмапу&#10;- сравнение двух хешмамп в классе PagesComparer" />
   </component>
 </project>
